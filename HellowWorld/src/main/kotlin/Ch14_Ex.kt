@@ -1,4 +1,5 @@
 fun main() {
+// 코틀린으로 달력 출력하기 _터미널 프롬프트 통해서
     print("연도 입력: ")
     val year: Int = readLine()!!.toInt()
     print("월 입력: ")
